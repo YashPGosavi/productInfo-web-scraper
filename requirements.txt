@@ -1,4 +1,3 @@
-altgraph @ file:///AppleInternal/Library/BuildRoots/860631e9-c1c5-11ee-98ee-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/python3/altgraph-0.17.2-py2.py3-none-any.whl
 aniso8601==9.0.1
 appdirs==1.4.4
 appnope==0.1.4
@@ -22,7 +21,6 @@ Flask==3.0.3
 Flask-Cors==4.0.0
 Flask-RESTful==0.3.10
 fonttools==4.51.0
-future @ file:///AppleInternal/Library/BuildRoots/860631e9-c1c5-11ee-98ee-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/python3/future-0.18.2-py3-none-any.whl
 google-auth==2.29.0
 google-auth-oauthlib==1.2.0
 gspread==6.1.0
@@ -40,11 +38,10 @@ joblib==1.4.0
 jupyter_client==8.6.1
 jupyter_core==5.7.2
 kiwisolver==1.4.5
-macholib @ file:///AppleInternal/Library/BuildRoots/860631e9-c1c5-11ee-98ee-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/python3/macholib-1.15.2-py2.py3-none-any.whl
 MarkupSafe==2.1.5
 matplotlib==3.8.4
 matplotlib-inline==0.1.7
-msedge-selenium-tools==3.141.4
+
 nest-asyncio==1.6.0
 nltk==3.8.1
 numpy==1.26.4
@@ -68,7 +65,6 @@ pyasn1_modules==0.4.0
 pyee==11.1.0
 Pygments==2.17.2
 pyparsing==3.1.2
-pyppeteer==2.0.0
 PySocks==1.7.1
 python-dateutil==2.9.0.post0
 pytz==2024.1
@@ -77,8 +73,6 @@ regex==2024.4.16
 requests==2.31.0
 requests-oauthlib==2.0.0
 rsa==4.9
-selenium==4.19.0
-six @ file:///AppleInternal/Library/BuildRoots/860631e9-c1c5-11ee-98ee-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/python3/six-1.15.0-py2.py3-none-any.whl
 sniffio==1.3.1
 sortedcontainers==2.4.0
 soupsieve==2.5
@@ -91,9 +85,9 @@ trio==0.25.0
 trio-websocket==0.11.1
 typing_extensions==4.11.0
 tzdata==2024.1
-urllib3==2.2.1
 wcwidth==0.2.13
 websockets==12.0
 Werkzeug==3.0.2
 wsproto==1.2.0
 zipp==3.18.1
+msedge-selenium-tools==3.141.4
